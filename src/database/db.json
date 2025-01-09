@@ -1,13 +1,1 @@
-{
-    "tickets": [
-        {
-            "id": "b1146bed-886c-4127-8cd4-722f40fb3989",
-            "equipment": "Computador",
-            "description": "Computador não liga",
-            "user_name": "Mateus Macedo",
-            "status": "open",
-            "created_at": "2025-01-09T18:42:00.442Z",
-            "updated_at": "2025-01-09T18:42:00.442Z"
-        }
-    ]
-}
+{"tickets":[{"id":"b1146bed-886c-4127-8cd4-722f40fb3989","equipment":"Computador","description":"Computador não liga","user_name":"Mateus Macedo","status":"open","created_at":"2025-01-09T18:42:00.442Z","updated_at":"2025-01-09T18:42:00.442Z"},{"id":"6efd1aa8-113c-484e-9dea-113e72099e8c","equipment":"Computador","description":"O pc ta lento parece pc da xuxa","user_name":"Rafael Queiroz","status":"open","created_at":"2025-01-09T18:57:34.442Z","updated_at":"2025-01-09T18:57:34.442Z"}]}
